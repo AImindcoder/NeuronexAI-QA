@@ -1,0 +1,28 @@
+# NeuronexAI — Global AI QA Engine
+
+## Overview
+This project is a **Python-based AI QA Engine** built using **Streamlit, Selenium, and Requests**.  
+It allows automated testing of websites for **UI, backend, performance, security, and stability**.
+
+---
+
+## Features
+- Scans websites for:
+  - **Broken links and images**
+  - **Clickable buttons and functional inputs**
+  - **Forms and API calls**
+  - **HTTPS security**
+  - **Load time and backend response**
+- Generates **AI-based score, quality grade, and future failure risk**
+- Provides **recommendations** to improve website quality
+- Captures **website screenshots**
+- Downloadable **AI QA report**
+- Beautiful, animated **Streamlit UI** with glass panels and glowing headers
+
+---
+
+## Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/YOUR_USERNAME/NeuronexAI-QA-Engine.git
+cd NeuronexAI-QA-Engine
